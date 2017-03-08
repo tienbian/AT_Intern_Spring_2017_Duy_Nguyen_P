@@ -1,4 +1,3 @@
-
 REPORT 8/3/2017
 
 1. What is git, github, repository?
@@ -54,4 +53,3 @@ REPORT 8/3/2017
   	   -   Sử dụng git rebase nếu như  muốn các sự thay đổi thuộc về branch luôn luôn là mới nhất.
     b. Merge
 	   - Merge source là trộn từ một nhánh khác vào nhánh hiện tại. Sử dụng git merge nếu muốn sắp xếp các commit theo mặc định.
-
