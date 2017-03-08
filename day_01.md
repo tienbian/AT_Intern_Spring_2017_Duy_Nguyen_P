@@ -1,4 +1,3 @@
-Xin chao
 
 REPORT 8/3/2017
 
